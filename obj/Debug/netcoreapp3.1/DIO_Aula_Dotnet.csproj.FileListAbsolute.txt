@@ -1,0 +1,13 @@
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.exe
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.deps.json
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.runtimeconfig.json
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.runtimeconfig.dev.json
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.dll
+C:\workspace\DIO\DIO_Aula_Dotnet\bin\Debug\netcoreapp3.1\DIO_Aula_Dotnet.pdb
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.csprojAssemblyReference.cache
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.AssemblyInfoInputs.cache
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.AssemblyInfo.cs
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.dll
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.pdb
+C:\workspace\DIO\DIO_Aula_Dotnet\obj\Debug\netcoreapp3.1\DIO_Aula_Dotnet.genruntimeconfig.cache
