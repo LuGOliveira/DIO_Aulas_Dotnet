@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\DIO\\DIO_Aula_Dotnet\\DIO_Aula_Dotnet.csproj": {}
+    "C:\\workspace\\DIO\\DIO_Aulas_Dotnet\\DIO_Aula_Dotnet.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\DIO\\DIO_Aula_Dotnet\\DIO_Aula_Dotnet.csproj": {
+    "C:\\workspace\\DIO\\DIO_Aulas_Dotnet\\DIO_Aula_Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\DIO\\DIO_Aula_Dotnet\\DIO_Aula_Dotnet.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO\\DIO_Aulas_Dotnet\\DIO_Aula_Dotnet.csproj",
         "projectName": "DIO_Aula_Dotnet",
-        "projectPath": "C:\\workspace\\DIO\\DIO_Aula_Dotnet\\DIO_Aula_Dotnet.csproj",
+        "projectPath": "C:\\workspace\\DIO\\DIO_Aulas_Dotnet\\DIO_Aula_Dotnet.csproj",
         "packagesPath": "C:\\Users\\Lucimar\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\DIO\\DIO_Aula_Dotnet\\obj\\",
+        "outputPath": "C:\\workspace\\DIO\\DIO_Aulas_Dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
